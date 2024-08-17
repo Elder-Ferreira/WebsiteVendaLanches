@@ -11,7 +11,11 @@
             public string ImagemThumbnailUrl { get; set; }
             public bool isLanchePreferido { get; set; }
             public bool EmEstoque { get; set; }
-            
-        }
+
+
+            public int CategoriaId { get; set; }
+            public virtual Categoria Categoria { get; set; }
+
+    }
     }
 
