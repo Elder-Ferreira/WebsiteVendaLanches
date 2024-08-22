@@ -21,6 +21,8 @@ namespace WebsiteVendaLanches.Models
 
 
         public List<Lanche> Lanches { get; set; }
+        //Define uma propriedade de navegação, uma lista do tipo Lanches.
+        //Relacionamento de 1 para muitos (1 categoria possui muitos lanches)
     }
 }
 
