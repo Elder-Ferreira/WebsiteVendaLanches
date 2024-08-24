@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Migrations\\20241209224247_MigracaoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebsiteVendaLanches\\Migrations\\20241209224247_MigracaoInicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\migrations\\20241209224247_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\migrations\\20241209224247_migracaoinicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\appsettings.json",
+              "RelativeDocumentMoniker": "WebsiteVendaLanches\\appsettings.json",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\appsettings.json",
+              "RelativeToolTip": "WebsiteVendaLanches\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T23:29:52.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "20241209224247_MigracaoInicial.cs",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Migrations\\20241209224247_MigracaoInicial.cs",
               "RelativeDocumentMoniker": "WebsiteVendaLanches\\Migrations\\20241209224247_MigracaoInicial.cs",
               "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Migrations\\20241209224247_MigracaoInicial.cs",
               "RelativeToolTip": "WebsiteVendaLanches\\Migrations\\20241209224247_MigracaoInicial.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-09T22:42:47.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Lanche.cs",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Models\\Lanche.cs",
               "RelativeDocumentMoniker": "WebsiteVendaLanches\\Models\\Lanche.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "WebsiteVendaLanches\\Models\\Categoria.cs",
@@ -59,8 +76,7 @@
               "RelativeToolTip": "WebsiteVendaLanches\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-09T21:54:58.693Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-09T21:54:58.693Z"
             }
           ]
         }
