@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Migrations\\20241210190417_PopularLanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:WebsiteVendaLanches\\Migrations\\20241210190417_PopularLanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\migrations\\20241210190417_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\migrations\\20241210190417_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\migrations\\20241210184315_popularcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "WebsiteVendaLanches\\Migrations\\20241210190417_PopularLanches.cs",
               "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Migrations\\20241210190417_PopularLanches.cs",
               "RelativeToolTip": "WebsiteVendaLanches\\Migrations\\20241210190417_PopularLanches.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-10T19:04:17.331Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "WebsiteVendaLanches\\Migrations\\20241210184315_PopularCategorias.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAA6wBIAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T18:43:15.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-10T18:43:15.366Z"
             }
           ]
         }
