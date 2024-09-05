@@ -3,24 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\repositories\\lancherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\repositories\\lancherepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\migrations\\20241210190417_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\migrations\\20241210190417_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\migrations\\20241210184315_popularcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\migrations\\20241210184315_popularcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,64 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LancheRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Repositories\\LancheRepository.cs",
-              "RelativeDocumentMoniker": "WebsiteVendaLanches\\Repositories\\LancheRepository.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Repositories\\LancheRepository.cs",
-              "RelativeToolTip": "WebsiteVendaLanches\\Repositories\\LancheRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABQAAAAAAAAAA==",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Startup.cs",
+              "RelativeDocumentMoniker": "WebsiteVendaLanches\\Startup.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Startup.cs",
+              "RelativeToolTip": "WebsiteVendaLanches\\Startup.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T22:42:03.601Z",
+              "WhenOpened": "2024-12-11T15:05:07.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Repositories\\CategoriaRepository.cs",
-              "RelativeDocumentMoniker": "WebsiteVendaLanches\\Repositories\\CategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Repositories\\CategoriaRepository.cs",
-              "RelativeToolTip": "WebsiteVendaLanches\\Repositories\\CategoriaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowA8AAABIAAAAAAAAAA==",
+              "Title": "LancheRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Repositories\\LancheRepository.cs",
+              "RelativeDocumentMoniker": "WebsiteVendaLanches\\Repositories\\LancheRepository.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Repositories\\LancheRepository.cs",
+              "RelativeToolTip": "WebsiteVendaLanches\\Repositories\\LancheRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T20:36:56.937Z",
+              "WhenOpened": "2024-12-10T22:42:03.601Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ICategoriaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Repositories\\Interfaces\\ICategoriaRepository.cs",
-              "RelativeDocumentMoniker": "WebsiteVendaLanches\\Repositories\\Interfaces\\ICategoriaRepository.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Repositories\\Interfaces\\ICategoriaRepository.cs",
-              "RelativeToolTip": "WebsiteVendaLanches\\Repositories\\Interfaces\\ICategoriaRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T22:11:27.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "20241210190417_PopularLanches.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Migrations\\20241210190417_PopularLanches.cs",
-              "RelativeDocumentMoniker": "WebsiteVendaLanches\\Migrations\\20241210190417_PopularLanches.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Migrations\\20241210190417_PopularLanches.cs",
-              "RelativeToolTip": "WebsiteVendaLanches\\Migrations\\20241210190417_PopularLanches.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA6wA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T19:04:17.331Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20241210184315_PopularCategorias.cs",
-              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Migrations\\20241210184315_PopularCategorias.cs",
-              "RelativeDocumentMoniker": "WebsiteVendaLanches\\Migrations\\20241210184315_PopularCategorias.cs",
-              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Migrations\\20241210184315_PopularCategorias.cs",
-              "RelativeToolTip": "WebsiteVendaLanches\\Migrations\\20241210184315_PopularCategorias.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBIAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T18:43:15.366Z"
             }
           ]
         }
