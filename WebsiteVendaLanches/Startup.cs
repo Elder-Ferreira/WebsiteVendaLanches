@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using WebsiteVendaLanches.Context;
+using WebsiteVendaLanches.Repositories;
 using WebsiteVendaLanches.Repositories.Interfaces;
 
 namespace WebsiteVendaLanches;
@@ -18,8 +19,8 @@ public class Startup
         services.AddDbContext<AppDbContext>(options =>
             options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
-        services.AddTransient<ILancheRepository,ILancheRepository>();
-        services.AddTransient<ICategoriaRepository,ICategoriaRepository>(); 
+        services.AddTransient<ILancheRepository, LancheRepository>();
+        services.AddTransient<ICategoriaRepository, CategoriaRepository>();
 
         services.AddControllersWithViews();
     }
