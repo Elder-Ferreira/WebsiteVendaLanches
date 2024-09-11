@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using WebsiteVendaLanches.Repositories.Interfaces;
+using WebsiteVendaLanches.ViewModels;
 
 namespace WebsiteVendaLanches.Controllers
 {
@@ -14,8 +15,14 @@ namespace WebsiteVendaLanches.Controllers
 
         public IActionResult List()
         {
-            var lanches = _lancheRepository.Lanches;
-            return View(lanches);
+            // var lanches = _lancheRepository.Lanches;
+            // return View(lanches);
+
+            var lanchesListViewModel = new LancheListViewModel();
+            lanchesListViewModel.Lanches = _lancheRepository.Lanches;
+            lanchesListViewModel.CategoriaAtual = "Categoria Atual";
+
+            return View(lanchesListViewModel);
         }
     }
 }
