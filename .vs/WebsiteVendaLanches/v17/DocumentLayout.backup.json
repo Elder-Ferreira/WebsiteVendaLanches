@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|c:\\users\\windows 11\\documents\\workspace\\websitevendalanches\\websitevendalanches\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0E2C45-DA5E-4E22-A032-580ABE76110A}|WebsiteVendaLanches\\WebsiteVendaLanches.csproj|solutionrelative:websitevendalanches\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarrinhoCompra.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Models\\CarrinhoCompra.cs",
+              "RelativeDocumentMoniker": "WebsiteVendaLanches\\Models\\CarrinhoCompra.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Documents\\Workspace\\WebsiteVendaLanches\\WebsiteVendaLanches\\Models\\CarrinhoCompra.cs",
+              "RelativeToolTip": "WebsiteVendaLanches\\Models\\CarrinhoCompra.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:36:50.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
