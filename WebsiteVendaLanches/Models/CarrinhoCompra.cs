@@ -1,4 +1,5 @@
-﻿using WebsiteVendaLanches.Context;
+﻿using Microsoft.EntityFrameworkCore;
+using WebsiteVendaLanches.Context;
 
 namespace WebsiteVendaLanches.Models
 {
@@ -80,6 +81,15 @@ namespace WebsiteVendaLanches.Models
             }
             _context.SaveChanges();
             return quantidadeLocal;
+        }
+
+        public List<CarrinhoCompraItem> GetCarrinhoCompraItens()
+        {
+            return CarrinhoCompraItems ??
+                   (CarrinhoCompraItems =
+                       _context.CarrinhoCompraItens.Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
+                           .Include(s => s.Lanche)
+                           .ToList());
         }
 
     }
