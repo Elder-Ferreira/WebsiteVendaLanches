@@ -101,6 +101,13 @@ namespace WebsiteVendaLanches.Models
             _context.SaveChanges();
         }
 
+        public decimal GetCarrinhoCompraTotal()
+        {
+            var total = _context.CarrinhoCompraItens.Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
+                .Select(c => c.Lanche.Preco * c.Quantidade).Sum();
+            return total;
+        }
+
     }
 }
 
